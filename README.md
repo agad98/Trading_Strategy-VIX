@@ -16,4 +16,4 @@ Testing will be done parallely due to the limited number of functions.
 
 Deploy:
 Once application passes testing it can be deployed.
-As of 11/15/2021 it has been deployed.
+As of 11/16/2021 it has been deployed.
